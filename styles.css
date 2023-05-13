@@ -1,0 +1,22 @@
+*{
+    font-family: "Lucida Console", "Courier New", sans-serif;
+    text-align: center;
+}
+
+ol *, ul *{
+    text-align: left;
+    font-size: 20px;
+}
+
+#heading{
+    font-size: 36px;
+    font-weight: 800;
+}
+.spaghetti{
+    background-color: lightcoral;
+}
+
+.omelette{
+    background-color: lightyellow;
+}
+
